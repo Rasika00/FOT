@@ -1,5 +1,7 @@
 # Faculty of Technology - Rajarata University
 
+<img width="1918" height="918" alt="Screenshot 2026-08-30 141425" src="https://github.com/user-attachments/assets/f782a0b4-ed29-4591-ac20-ddc305fa9ee9" />
+<img width="1918" height="922" alt="Screenshot 2026-08-30 141509" src="https://github.com/user-attachments/assets/fb8b2fc9-6b88-4072-88c4-ff39a296c851" />
 ## About This Project
 
 This project is a modern, high-tech, and highly interactive web portal designed for the **Faculty of Technology at Rajarata University of Sri Lanka (RJT)**. 
